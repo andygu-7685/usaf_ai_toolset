@@ -1,0 +1,6 @@
+names:
+  0: usaf_element
+nc: 1
+kpt_shape: [2, 3]  # CRITICAL: 2 points, each has [x, y, visibility]
+train: usaf_dataset/images
+val: usaf_dataset/images

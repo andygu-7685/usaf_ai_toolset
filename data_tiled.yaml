@@ -1,0 +1,11 @@
+flip_idx:
+- 0
+- 1
+kpt_shape:
+- 2
+- 3
+names:
+- usaf_element
+nc: 1
+train: /content/roboflow_yolov11_tiled_train/images
+val: /content/roboflow_yolov11_tiled_val/images
